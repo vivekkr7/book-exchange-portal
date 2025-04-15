@@ -1,0 +1,16 @@
+[
+  {
+    "name": "v@gmail.com",
+    "mobile": "1234567890",
+    "email": "v@gmail.com",
+    "password": "vivek",
+    "role": "owner"
+  },
+  {
+    "name": "vivek",
+    "mobile": "8409235935",
+    "email": "v1@gmail.com",
+    "password": "vivek",
+    "role": "seeker"
+  }
+]
