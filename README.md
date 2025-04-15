@@ -97,3 +97,18 @@ Full Auth flow
 Image uploads for book listings
 Real database (e.g. MongoDB,MySQL)
 Deployment (e.g. Vercel + Render)
+________________________________________________
+Snapshots of Application
+![image](https://github.com/user-attachments/assets/1f06d986-c6ab-41b8-a5c3-aae6a6d70ff2)
+![image](https://github.com/user-attachments/assets/54c09f7d-fda0-4180-9b38-a9a7a7bb4101)
+![image](https://github.com/user-attachments/assets/9af41fbd-7fb6-47c0-8f18-82c93ab9b702)
+![image](https://github.com/user-attachments/assets/df2549f2-cb59-4e67-a45a-4103d882ac55)
+![image](https://github.com/user-attachments/assets/f8f8eec9-bc43-4034-8c46-fd57b58525db)
+![image](https://github.com/user-attachments/assets/08ae9f1b-6c8a-46da-a282-7f1841352a9a)
+![image](https://github.com/user-attachments/assets/065da4d8-93cd-4fea-ba3a-0f6f40c12fad)
+
+
+
+
+
+
