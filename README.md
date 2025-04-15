@@ -78,13 +78,13 @@ npm run dev
 ✅ App runs on: http://localhost:3000
 
 🙋‍♀️ How to Use
-Sign up as Owner or Seeker
+Sign up as Owner or Seeker.
 
-Log in and explore your dashboard
+Log in and explore your dashboard.
 
-Owners can list, edit, or delete books
+Owners can list, edit, delete and mark book as Available/Rented.
 
-Seekers can browse available books
+Seekers can browse available books and see the status whether Available/Rented.
 ________________________________________________
 AI Tools referred
 
