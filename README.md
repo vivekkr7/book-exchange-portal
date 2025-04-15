@@ -30,7 +30,7 @@ BookShare is a beginner-friendly full-stack web application that allows users to
 
 ## 📂 Project Structure
 
-bookshare-app/
+book-exchange-portal/
  ├── backend/ 
  │ ├── server.js 
  │ ├── users.json 
@@ -61,7 +61,7 @@ bookshare-app/
 ### 📦 1. Clone the Repo
 ```bash
 git clone "Repo_link"
-cd bookshare-app
+cd book-exchange-portal
 
 ## BACKEND SETUP
 cd backend
