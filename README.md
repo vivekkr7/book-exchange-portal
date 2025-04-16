@@ -14,6 +14,7 @@ BookShare is a beginner-friendly full-stack web application that allows users to
 - 🧠 Backend built with **Node.js + Express**
 - 💾 Data stored in simple JSON files
 - 🎨 Clean, responsive UI with **Tailwind CSS**
+- 💻 Deployed on **Vercel + Render** (Live link - **https://book-share-frontend-ivory.vercel.app**)
 
 ---
 
@@ -96,7 +97,6 @@ Future Improvements/Works
 Full Auth flow
 Image uploads for book listings
 Real database (e.g. MongoDB,MySQL)
-Deployment (e.g. Vercel + Render)
 ________________________________________________
 Snapshots of Application
 ![image](https://github.com/user-attachments/assets/1f06d986-c6ab-41b8-a5c3-aae6a6d70ff2)
